@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "jordan.callicoat@gmail.com",
+                "Name": "Jordan Callicoat"
+            }
+        ],
+        "Description": "Adds a shortcut to switch to switch to desktop 1-9 or previous desktop",
+        "Icon": "preferences-system-windows-script-test",
+        "Id": "switch-to-desktop",
+        "License": "GPL",
+        "Name": "Switch to desktop"
+    },
+    "X-Plasma-API": "javascript"
+}
