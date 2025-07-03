@@ -6,7 +6,6 @@ Installation:
 ----
 ```shell
 git clone https://github.com/JCallicoat/switch-to-desktop
-cd switch-to-desktop
 kpackagetool6 --type KWin/Script --install switch-to-desktop
 ```
 
