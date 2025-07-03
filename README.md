@@ -1,5 +1,7 @@
 Simple KWin script to implement functionality like i3 `workspace_auto_back_and_forth` and xfce `toggle_workspaces`, where switching to the currently active virtual desktop will instead switch to the previously active desktop.
 
+For example, if desktop 2 is currently active, and I press `Meta+1` then desktop 1 will be switched to. If I then press `Meta+1` again, the previously active desktop, 2, will be switched to instead.
+
 Installation:
 ----
 ```shell
